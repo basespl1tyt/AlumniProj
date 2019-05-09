@@ -12,7 +12,6 @@ body {
 /* Background Particles */ 
 
 #particles-js {
-  background-image: url(../images/background.png); 
   position: fixed; 
   width: 100%;
   -moz-background-size: cover;
@@ -116,7 +115,7 @@ div.icon p {
     padding: 30px 30px 40px 30px; 
     bottom: 0;
     left: 50%;
-    margin-top: -50px; 
+    margin-top: -60px; 
 
 }
   .countdown .timeel {
